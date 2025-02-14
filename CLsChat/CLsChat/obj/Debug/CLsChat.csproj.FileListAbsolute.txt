@@ -1,0 +1,11 @@
+D:\Depi\G1\CS\CLsChat\CLsChat\bin\Debug\CLsChat.exe.config
+D:\Depi\G1\CS\CLsChat\CLsChat\bin\Debug\CLsChat.exe
+D:\Depi\G1\CS\CLsChat\CLsChat\bin\Debug\CLsChat.pdb
+D:\Depi\G1\CS\CLsChat\CLsChat\obj\Debug\CLsChat.csproj.AssemblyReference.cache
+D:\Depi\G1\CS\CLsChat\CLsChat\obj\Debug\CLsChat.FrmLogin.resources
+D:\Depi\G1\CS\CLsChat\CLsChat\obj\Debug\CLsChat.FrmMain.resources
+D:\Depi\G1\CS\CLsChat\CLsChat\obj\Debug\CLsChat.Properties.Resources.resources
+D:\Depi\G1\CS\CLsChat\CLsChat\obj\Debug\CLsChat.csproj.GenerateResource.cache
+D:\Depi\G1\CS\CLsChat\CLsChat\obj\Debug\CLsChat.csproj.CoreCompileInputs.cache
+D:\Depi\G1\CS\CLsChat\CLsChat\obj\Debug\CLsChat.exe
+D:\Depi\G1\CS\CLsChat\CLsChat\obj\Debug\CLsChat.pdb
